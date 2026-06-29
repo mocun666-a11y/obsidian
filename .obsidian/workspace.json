@@ -11,12 +11,14 @@
             "id": "0788c75bf9fe1bee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/AI测试/file-20260629190154894.png"
+                "file": "未命名/AI测试.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20260629190154894"
+              "icon": "lucide-file",
+              "title": "AI测试"
             }
           }
         ]
@@ -182,11 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a59f5640d324733",
+  "active": "0788c75bf9fe1bee",
   "lastOpenFiles": [
-    "AI测试.md",
+    "未命名/assets/AI测试/file-20260629190329305.png",
+    "未命名/AI测试.md",
+    "未命名.md",
+    "未命名/assets/AI测试",
+    "未命名/assets",
+    "未命名",
     "assets/AI测试",
-    "assets/AI测试/file-20260629190154894.png",
     "assets/测试",
     "assets",
     "密码大全.md",
