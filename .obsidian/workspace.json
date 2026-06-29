@@ -11,14 +11,12 @@
             "id": "0788c75bf9fe1bee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "测试.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/AI测试/file-20260629190154894.png"
               },
-              "icon": "lucide-file",
-              "title": "测试"
+              "icon": "lucide-image",
+              "title": "file-20260629190154894"
             }
           }
         ]
@@ -184,14 +182,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0788c75bf9fe1bee",
+  "active": "2a59f5640d324733",
   "lastOpenFiles": [
-    "assets/测试/file-20260629190052996.png",
+    "AI测试.md",
+    "assets/AI测试",
+    "assets/AI测试/file-20260629190154894.png",
     "assets/测试",
     "assets",
     "密码大全.md",
     "项目大全.md",
-    "测试.md",
     "新快捷方式.lnk",
     "新建 RTF 文件.rtf",
     "新建 文本文档.txt",
